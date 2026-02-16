@@ -28,7 +28,7 @@ Or open the Jupyter notebooks:
 jupyter notebook notebooks/
 
 ## 📑 Project Specification
-The full exercise specification is available in [Looks like the result wasn't safe to show. Let's switch things up and try something else!].
+The full exercise specification is available in [The full exercise specification is available in [docs/specification.md](docs/specification.md).].
 This document outlines the requirements, objectives, and evaluation criteria for the project.
 Summary of requirements:
 - Implement NLP preprocessing (tokenization, stopword removal, etc.)
